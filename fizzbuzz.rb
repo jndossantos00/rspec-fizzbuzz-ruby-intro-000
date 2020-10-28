@@ -4,7 +4,7 @@ def fizzbuzz (number)
   if number % 3 == 00 && number % 5 == 0
     "Fizzbuzz"
   elsif number % 3 == 0
-    "buzz"
+    "Fizz"
   else
     number
   end
